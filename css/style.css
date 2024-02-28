@@ -9,3 +9,8 @@ p {
 header {
     background-color: orange;
 }
+
+span{
+    color: black;
+    background-color: white;
+}
