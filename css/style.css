@@ -10,8 +10,14 @@ header {
     background-color: orange;
 }
 
+<<<<<<< HEAD
 @media (max-width: 600px) {
     .facet_sidebar {
         display: none;
     }
+=======
+span{
+    color: black;
+    background-color: white;
+>>>>>>> carrinho
 }
